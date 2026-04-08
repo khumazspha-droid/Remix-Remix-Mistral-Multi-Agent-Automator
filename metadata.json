@@ -1,0 +1,5 @@
+{
+  "name": "Remix: Remix: Mistral Multi-Agent Automator",
+  "description": "A multi-agent task execution system coordinating Planner (Blue), Executor (Red), and Fallback (Black) agents using Mistral AI.",
+  "requestFramePermissions": []
+}
